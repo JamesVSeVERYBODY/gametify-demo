@@ -1,0 +1,53 @@
+# Flutter/Dart/Pub related
+**/build/
+**/.dart_tool/
+**/.packages
+**/pubspec.lock
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.idea/
+**/.vscode/
+**/.DS_Store
+
+# Mac/Windows/Linux generated files
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*.tmp
+*.log
+
+# iOS
+GAMETIFY/ios/Pods/
+GAMETIFY/ios/Flutter/Flutter.framework
+GAMETIFY/ios/Flutter/Flutter.podspec
+GAMETIFY/ios/Flutter/Generated.xcconfig
+
+# Android
+GAMETIFY/android/.gradle/
+GAMETIFY/android/app/build/
+GAMETIFY/android/build/
+
+# Web
+GAMETIFY/web/.dart_tool/
+GAMETIFY/web/build/
+
+# Linux
+GAMETIFY/linux/build/
+GAMETIFY/linux/flutter/ephemeral/
+
+# MacOS
+GAMETIFY/macos/Flutter/ephemeral/
+GAMETIFY/macos/build/
+
+# Windows
+GAMETIFY/windows/build/
+GAMETIFY/windows/flutter/ephemeral/
+
+# User-specific files
+*.sublime-workspace
+*.sublime-project
+
+# Executables
+*.exe 
