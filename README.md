@@ -59,11 +59,3 @@ Want to make Gametify even better? Contributions are welcome!
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 👤 Author
-
-Made with ❤️ by [JamesVSeVERYBODY](https://github.com/JamesVSeVERYBODY)
-
----
-
-Enjoy exploring and rating your favorite games with Gametify! If you like this project, don't forget to ⭐ the repo!
